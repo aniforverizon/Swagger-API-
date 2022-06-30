@@ -1,0 +1,13 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: Sample_API
+  description: NOT required
+  contact:
+    name: anubhav chaturvedi
+    url: https://www.youtube.com/watch?v=mViFmjcDOoA&t=930s
+paths: 
+  /people:
+    description: info about the people
+    get:
+      description: fetch population count
